@@ -1,5 +1,7 @@
 # SignLanguageDetectionFrontendAv19
 
+This is Sign Language Detection project made using Gemini API, Angular 19 Frontend and Node.js Backend
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
 
 ## Development server
