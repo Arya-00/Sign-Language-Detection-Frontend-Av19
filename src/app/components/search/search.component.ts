@@ -28,7 +28,8 @@ export class SearchComponent {
 	buttonDisabled: boolean = false;
 
 	prompt = new FormControl(
-		{ value: 'What Sign Language Symbol is this?', disabled: true },
+		// { value: 'What Sign Language Symbol is this?', disabled: true },
+		'What Sign Language Symbol is this?',
 		[Validators.required]
 	);
 	responseData: string = '';
